@@ -1,0 +1,6 @@
+{
+  "appId": "com.tiffinly.app",
+  "appName": "tiffinly",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
