@@ -88,25 +88,7 @@ npm install
 npm run dev
 ````
 
----
 
-## Project Structure
-
-```
-TIFFINLY/
-│
-├── backend/        # Supabase / backend functions
-│
-├── frontend/       # React / React Native frontend
-│   ├── src/
-│   ├── package.json
-│   └── App.tsx
-│
-├── README.md
-└── .gitignore
-```
-
----
 
 ## Future Enhancements
 
